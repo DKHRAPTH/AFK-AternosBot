@@ -1,7 +1,7 @@
 {
-    "host": "name.aternos.me",
-    "port": "99999",
-    "username": "MinecraftBot",
-    "edition": "java",
-    "javaVersion": "1.21.11"
+    "host": "IndiaSkygenMC.aternos.me",
+    "port": "19132",
+    "username": "your-name-bot",
+    "edition": "bedrock", // or "java",
+    "javaVersion": "1.21.11" // Only required for Java Edition servers
 }
